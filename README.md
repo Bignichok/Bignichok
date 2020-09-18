@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: inikita546@gmail.com
 - 🤔 I’m currently looking for a job in front-end development
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bignichok&show_icons=true&theme=cobalt)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bignichok&show_icons=true&theme=cobalt)
 
